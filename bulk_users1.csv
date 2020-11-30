@@ -1,0 +1,4 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,postalcode,state,country,department,password,telephone,jobtitle,company,ou
+Josh,J,Parker,joparker123,joparker123@parker.local,123 Home Address,Morrisville,13408,NY,USA,IT,cita_300-3,555-555-5555,Information Specialist,Parker Inc.,"OU=Users,OU=Parker Inc.,DC=parker,DC=local"
+Jacob,J,Parker,japarker123,japarker123@parker.local,123 Home Address,Morrisville,13408,NY,USA,IT,cita_300-3,555-555-5555,Information Specialist,Parker Inc.,"OU=Users,OU=Parker Inc.,DC=parker,DC=local"
+John,J,Parker,joparker124,joparker124@parker.local,123 Home Address,Morrisville,13408,NY,USA,IT,cita_300-3,555-555-5555,Information Specialist,Parker Inc.,"OU=Users,OU=Parker Inc.,DC=parker,DC=local"
